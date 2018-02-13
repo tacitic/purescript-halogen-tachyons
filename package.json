@@ -11,5 +11,8 @@
   "scripts": {
     "build": "./generate.hs",
     "test": "pulp test"
+  },
+  "devDependencies": {
+    "shared-git-hooks": "^1.2.1"
   }
 }

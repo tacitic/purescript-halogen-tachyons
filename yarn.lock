@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+shared-git-hooks@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/shared-git-hooks/-/shared-git-hooks-1.2.1.tgz#f17f59677cbf8fc3ee8ee71934a9de70a0920cce"
+
 tachyons@^4.9.1:
   version "4.9.1"
   resolved "https://registry.yarnpkg.com/tachyons/-/tachyons-4.9.1.tgz#f88d7059d6e53c833bf9351a26f18314c8fdc76a"
