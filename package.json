@@ -1,0 +1,15 @@
+{
+  "name": "purescript-halogen-tachyons",
+  "version": "1.0.0",
+  "description": "Tachyons for Halogen",
+  "main": "index.js",
+  "author": "Robert den Harink",
+  "license": "MIT",
+  "dependencies": {
+    "tachyons": "^4.9.1"
+  },
+  "scripts": {
+    "build": "./generate.hs",
+    "test": "pulp test"
+  }
+}
